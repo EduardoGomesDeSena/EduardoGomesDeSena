@@ -10,7 +10,7 @@ Me chamo Eduardo Gomes de Sena, tenho 18 anos e sou natural do Ceará. Concluí 
             src="https://custom-icon-badges.demolab.com/github/stars/EduardoGomesDeSena?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Linkedin"
         />
     </a>
-    <a>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqTgChcqVMmjdzmxVvBqhLSphFdjDvNVRKksmSjtbKCtCwBCWsstlJlxHSVRdzqNrsWSNV">
         <img 
             alt="Email" 
             src="https://custom-icon-badges.demolab.com/badge/-cadu.yugi@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white?color=236ad3&labelColor=1155b&logoColor=white"
