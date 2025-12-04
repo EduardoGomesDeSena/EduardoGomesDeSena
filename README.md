@@ -4,7 +4,7 @@
 Me chamo Eduardo Gomes de Sena, tenho 18 anos e sou natural do Ceará. Concluí o ensino médio no Sesi Senai da Parangaba, com o curso técnico em programação de Jogos Digitais. Sou um jovem programador que busca o entedimento do que envolve a tecnologia e tenho uma paixão na área de Jogos Digitais. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/eduardo-gomes-de-sena-ab1629348/">
         <img 
             alt="Likedin" 
             src="https://custom-icon-badges.demolab.com/github/stars/EduardoGomesDeSena?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Linkedin"
